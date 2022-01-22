@@ -27,7 +27,7 @@
             <div class="icon">
               <i class="ion ion-stats-bars"></i>
             </div>
-            <a href="exprience_view.php" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+            <a href="categories.php" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
           </div>
         </div>
         <!-- .project widget -->
@@ -41,7 +41,7 @@
             <div class="icon">
               <i class="fa fa-desktop"></i>
             </div>
-            <a href="project_view.php" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
+            <a href="view_orders.php" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
           </div>
         </div>
         <!-- service widget-->
@@ -62,5 +62,5 @@
 
 
                               <!-- testimonal widget-->
-  
+
       </div>
